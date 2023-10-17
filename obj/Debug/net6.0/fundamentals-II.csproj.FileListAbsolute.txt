@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\bin\Debug\net6.0\fundamentals-II.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\bin\Debug\net6.0\fundamentals-II.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\bin\Debug\net6.0\fundamentals-II.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\bin\Debug\net6.0\fundamentals-II.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\bin\Debug\net6.0\fundamentals-II.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\refint\fundamentals-II.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\fundamentals-II.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\fundamentals-II\obj\Debug\net6.0\ref\fundamentals-II.dll
